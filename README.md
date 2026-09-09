@@ -49,3 +49,6 @@ sum.ts                 # Implementación de la operación de suma (TypeScript)
 sum.test.ts            # Prueba unitaria para la operación de suma
 
 tsconfig.json          # Configuración del compilador de TypeScript 
+
+
+> Fork de Tomás Posada — Taller 1 CI/CD (Parte 1).
